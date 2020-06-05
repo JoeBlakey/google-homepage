@@ -1,0 +1,63 @@
+.logo{
+    padding-top: 109px;
+}
+.search-bar{
+    margin-top: 20px;
+    width:500px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.buttons{
+    -moz-appearance: none;
+    margin-top: 25px;
+}
+.search-button,
+.lucky-button {
+    -moz-appearance: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    background-color: rgb(240 240 240);
+    border: 0px;
+    font-size: 16px;
+}
+.nav-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    padding: 15px 10px 15px 10px;
+    font-size: 12px;
+}
+.right-nav{
+    float: right;
+    padding-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#sign-in{
+    background-color: #3e9df6;
+    padding: 7px 10px;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+#sign-in a{
+    color: white;
+}
+.country,
+.footer{
+    background-color: #f5f5f5;
+    margin: -1px -10px;
+    border: 1px solid lightgray;
+    }
+.uk{
+    padding: 0px 50px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
